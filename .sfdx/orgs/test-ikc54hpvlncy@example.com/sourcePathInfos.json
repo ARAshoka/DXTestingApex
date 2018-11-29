@@ -1,0 +1,352 @@
+[
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543471987984,
+            "changeTime": 1543471987984,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543471987984,
+            "changeTime": 1543471987984,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543479076408,
+            "changeTime": 1543479076408,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543471987984,
+            "changeTime": 1543471987984,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543479076403,
+            "changeTime": 1543479076403,
+            "contentHash": "6a5a513f83126404082394570a938ad9ac58c6a2"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexOneController.cls",
+        {
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexOneController.cls",
+            "isDirectory": false,
+            "size": 292,
+            "modifiedTime": 1543472745945,
+            "changeTime": 1543472745945,
+            "contentHash": "714707c0fb8156f58031761f17b31e0e6b829e80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexOneController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexOneController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1543472624006,
+            "changeTime": 1543472624006,
+            "contentHash": "ac6fffe113f0c0c439f96bb8f269537222fca19f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexTwoController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexTwoController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 312,
+            "modifiedTime": 1543479076398,
+            "changeTime": 1543479076398,
+            "contentHash": "26332b3683ecb55f7aad58cf7550849aee04c7dd"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexTwoController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexTwoController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1543479076394,
+            "changeTime": 1543479076394,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX",
+        {
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543473076281,
+            "changeTime": 1543473076281,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1543479076338,
+            "changeTime": 1543479076338,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1543479076351,
+            "changeTime": 1543479076351,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1543479076364,
+            "changeTime": 1543479076364,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1543479076375,
+            "changeTime": 1543479076375,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1543479076387,
+            "changeTime": 1543479076387,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexThreeController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexThreeController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1543479076402,
+            "changeTime": 1543479076402,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexThreeController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\classes\\ApexThreeController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 294,
+            "modifiedTime": 1543479076404,
+            "changeTime": 1543479076404,
+            "contentHash": "f08303cbfcad8b6e1e815f083723b27751137987"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4959,
+            "modifiedTime": 1543479076411,
+            "changeTime": 1543479076411,
+            "contentHash": "3bde43efdad824498200e4db35d94235d438dc4d"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5299,
+            "modifiedTime": 1543479076417,
+            "changeTime": 1543479076417,
+            "contentHash": "b59e11ad6bb48e1ae33bc268d83d28f76cd0e712"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4963,
+            "modifiedTime": 1543479076429,
+            "changeTime": 1543479076429,
+            "contentHash": "858f12609dbc4f0a5c96ce58be798bd9602bbab5"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18480,
+            "modifiedTime": 1543479076451,
+            "changeTime": 1543479076451,
+            "contentHash": "7a3c781266a905b36058d71d41222dc8f613b7d9"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543479076334,
+            "changeTime": 1543479076334,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543479076332,
+            "changeTime": 1543479076332,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543479076332,
+            "changeTime": 1543479076332,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543479076382,
+            "changeTime": 1543479076382,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\DXProjects\\TestingDX\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543479076446,
+            "changeTime": 1543479076446,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
